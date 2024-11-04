@@ -1,0 +1,354 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "category": "Electronics",
+      "brand": "Sony",
+      "price": 99.99,
+      "rating": 2.5,
+      "imageUrl": "https://m.media-amazon.com/images/I/51rpbVmi9XL._AC_SL1200_.jpg",
+      "description": "Wireless headphones with noise-canceling technology for an immersive listening experience."
+    },
+    {
+      "id": 2,
+      "name": "Bluetooth Speaker",
+      "category": "Electronics",
+      "brand": "JBL",
+      "price": 49.99,
+      "rating": 4.0,
+      "imageUrl": "https://m.media-amazon.com/images/I/71kzInVwzgL._AC_SL1500_.jpg",
+      "description": "Portable Bluetooth speaker with powerful sound and long battery life."
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "category": "Footwear",
+      "brand": "Nike",
+      "price": 59.99,
+      "rating": 4.2,
+      "imageUrl": "https://m.media-amazon.com/images/I/71w--V9a5QL._AC_SY575_.jpg",
+      "description": "Lightweight running shoes designed for comfort and speed."
+    },
+    {
+      "id": 4,
+      "name": "Smartphone",
+      "category": "Electronics",
+      "brand": "Samsung",
+      "price": 499.99,
+      "rating": 3.8,
+      "imageUrl": "https://m.media-amazon.com/images/I/71gvbKCg98L._AC_SL1500_.jpg",
+      "description": "Latest smartphone with high-resolution display and advanced features."
+    },
+    {
+      "id": 5,
+      "name": "Leather Jacket",
+      "category": "Clothing",
+      "brand": "Levi's",
+      "price": 199.99,
+      "rating": 4.7,
+      "imageUrl": "https://m.media-amazon.com/images/I/91Rw7mKwAxL._AC_SX522_.jpg",
+      "description": "Stylish leather jacket perfect for any occasion."
+    },
+    {
+      "id": 6,
+      "name": "Smartwatch",
+      "category": "Electronics",
+      "brand": "Apple",
+      "price": 199.99,
+      "rating": 4.1,
+      "imageUrl": "https://m.media-amazon.com/images/I/61DZ+Vezk0L._AC_SL1500_.jpg",
+      "description": "Smartwatch with fitness tracking and customizable watch faces."
+    },
+    {
+      "id": 7,
+      "name": "Gaming Mouse",
+      "category": "Electronics",
+      "brand": "Logitech",
+      "price": 39.99,
+      "rating": 4.5,
+      "imageUrl": "https://m.media-amazon.com/images/I/712sMCm+H7L._AC_SL1500_.jpg",
+      "description": "High-precision gaming mouse with customizable DPI settings."
+    },
+    {
+      "id": 8,
+      "name": "Backpack",
+      "category": "Accessories",
+      "brand": "The North Face",
+      "price": 49.99,
+      "rating": 4.3,
+      "imageUrl": "https://m.media-amazon.com/images/I/51m1U129NNL._AC_SL1000_.jpg",
+      "description": "Durable backpack ideal for hiking and outdoor adventures."
+    },
+    {
+      "id": 9,
+      "name": "Electric Toothbrush",
+      "category": "Personal Care",
+      "brand": "Oral-B",
+      "price": 79.99,
+      "rating": 4.6,
+      "imageUrl": "https://m.media-amazon.com/images/I/81bShiIAynL._SL1500_.jpg",
+      "description": "Electric toothbrush with multiple cleaning modes for optimal dental care."
+    },
+    {
+      "id": 10,
+      "name": "4K TV",
+      "category": "Electronics",
+      "brand": "LG",
+      "price": 799.99,
+      "rating": 4.8,
+      "imageUrl": "https://m.media-amazon.com/images/I/81tNIlr1kSL._AC_SL1500_.jpg",
+      "description": "4K Ultra HD TV with stunning picture quality and smart features."
+    },
+    {
+      "id": 11,
+      "name": "Coffee Maker",
+      "category": "Home Appliances",
+      "brand": "Keurig",
+      "price": 89.99,
+      "rating": 4.2,
+      "imageUrl": "https://m.media-amazon.com/images/I/61SbjrAeOjL._AC_SL1500_.jpg",
+      "description": "Single-serve coffee maker for a fresh cup of coffee in minutes."
+    },
+    {
+      "id": 12,
+      "name": "Yoga Mat",
+      "category": "Fitness",
+      "brand": "Liforme",
+      "price": 19.99,
+      "rating": 4.0,
+      "imageUrl": "https://m.media-amazon.com/images/I/41QeBFRL4oL._AC_SL1000_.jpg",
+      "description": "Non-slip yoga mat for a stable and comfortable workout."
+    },
+    {
+      "id": 13,
+      "name": "Water Bottle",
+      "category": "Accessories",
+      "brand": "Hydro Flask",
+      "price": 14.99,
+      "rating": 4.7,
+      "imageUrl": "https://m.media-amazon.com/images/I/51QDt7ESQPL._AC_SL1500_.jpg",
+      "description": "Insulated water bottle keeps drinks cold for hours."
+    },
+    {
+      "id": 14,
+      "name": "Gaming Headset",
+      "category": "Electronics",
+      "brand": "Razer",
+      "price": 89.99,
+      "rating": 4.5,
+      "imageUrl": "https://m.media-amazon.com/images/I/71GMpl+sfqL._AC_SL1500_.jpg",
+      "description": "Gaming headset with surround sound for an immersive experience."
+    },
+    {
+      "id": 15,
+      "name": "Action Camera",
+      "category": "Electronics",
+      "brand": "GoPro",
+      "price": 299.99,
+      "rating": 4.1,
+      "imageUrl": "https://m.media-amazon.com/images/I/61HPHhv6n5L._AC_SL1500_.jpg",
+      "description": "Action camera for capturing high-quality videos and photos."
+    },
+    {
+      "id": 16,
+      "name": "Sneakers",
+      "category": "Footwear",
+      "brand": "Adidas",
+      "price": 79.99,
+      "rating": 4.3,
+      "imageUrl": "https://m.media-amazon.com/images/I/71nRAZxGg3L._AC_SX575_.jpg",
+      "description": "Comfortable sneakers for everyday wear and athletic activities."
+    },
+    {
+      "id": 17,
+      "name": "Bluetooth Earbuds",
+      "category": "Electronics",
+      "brand": "Apple",
+      "price": 69.99,
+      "rating": 4.2,
+      "imageUrl": "https://m.media-amazon.com/images/I/61df2M5+OnL._AC_SL1500_.jpg",
+      "description": "Bluetooth earbuds for wireless audio and hands-free calls."
+    },
+    {
+      "id": 18,
+      "name": "Laptop Stand",
+      "category": "Accessories",
+      "brand": "Rain Design",
+      "price": 39.99,
+      "rating": 4.6,
+      "imageUrl": "https://m.media-amazon.com/images/I/61aLBwE6tNL._AC_SL1500_.jpg",
+      "description": "Ergonomic laptop stand to improve posture and comfort while working."
+    },
+    {
+      "id": 19,
+      "name": "Desk Lamp",
+      "category": "Home Decor",
+      "brand": "Philips",
+      "price": 29.99,
+      "rating": 4.4,
+      "imageUrl": "https://m.media-amazon.com/images/I/614gbM3eisL._AC_SL1500_.jpg",
+      "description": "Adjustable desk lamp with multiple brightness levels."
+    },
+    {
+      "id": 20,
+      "name": "Fitness Tracker",
+      "category": "Electronics",
+      "brand": "Fitbit",
+      "price": 149.99,
+      "rating": 4.5,
+      "imageUrl": "https://m.media-amazon.com/images/I/51CtR+quteL._AC_SL1200_.jpg",
+      "description": "Fitness tracker that monitors activity and health metrics."
+    },
+    {
+      "id": 21,
+      "name": "Casual T-Shirt",
+      "category": "Clothing",
+      "brand": "Hanes",
+      "price": 24.99,
+      "rating": 4.3,
+      "imageUrl": "https://m.media-amazon.com/images/I/61vwxeBw5vL._AC_SX569_.jpg",
+      "description": "Casual T-shirt made from soft, breathable fabric."
+    },
+    {
+      "id": 22,
+      "name": "Smart TV Stick",
+      "category": "Electronics",
+      "brand": "Amazon",
+      "price": 39.99,
+      "rating": 4.0,
+      "imageUrl": "https://m.media-amazon.com/images/I/71bHZpw548L._AC_SL1500_.jpg",
+      "description": "Smart TV stick that allows streaming from various platforms."
+    },
+    {
+      "id": 23,
+      "name": "Wireless Charger",
+      "category": "Electronics",
+      "brand": "Anker",
+      "price": 29.99,
+      "rating": 4.4,
+      "imageUrl": "https://m.media-amazon.com/images/I/61m5dpLy+FL._AC_SL1500_.jpg",
+      "description": "Wireless charger for fast and convenient charging."
+    },
+    {
+      "id": 24,
+      "name": "Air Fryer",
+      "category": "Home Appliances",
+      "brand": "Ninja",
+      "price": 199.99,
+      "rating": 4.7,
+      "imageUrl": "https://m.media-amazon.com/images/I/511+uXaPLlL._AC_SL1001_.jpg",
+      "description": "Air fryer that cooks food with little to no oil."
+    },
+    {
+      "id": 25,
+      "name": "Travel Mug",
+      "category": "Accessories",
+      "brand": "Contigo",
+      "price": 19.99,
+      "rating": 4.1,
+      "imageUrl": "https://m.media-amazon.com/images/I/81YrkrPEjZL._AC_SL1500_.jpg",
+      "description": "Travel mug designed to keep beverages hot or cold."
+    },
+    {
+      "id": 26,
+      "name": "Fitness Mat",
+      "category": "Fitness",
+      "brand": "Gaiam",
+      "price": 39.99,
+      "rating": 4.5,
+      "imageUrl": "https://m.media-amazon.com/images/I/81vYr+ZCyAL._AC_SL1500_.jpg",
+      "description": "Fitness mat suitable for yoga, Pilates, and other workouts."
+    },
+    {
+      "id": 27,
+      "name": "Portable Charger",
+      "category": "Electronics",
+      "brand": "RAVPower",
+      "price": 34.99,
+      "rating": 4.2,
+      "imageUrl": "https://m.media-amazon.com/images/I/51p3EuxuU7L._AC_SL1500_.jpg",
+      "description": "Portable charger for keeping devices powered on the go."
+    },
+    {
+      "id": 28,
+      "name": "Wireless Keyboard",
+      "category": "Electronics",
+      "brand": "Microsoft",
+      "price": 59.99,
+      "rating": 4.3,
+      "imageUrl": "https://m.media-amazon.com/images/I/71fHX1oidPL._AC_SL1500_.jpg",
+      "description": "Wireless keyboard with a sleek design and responsive keys."
+    },
+    {
+      "id": 29,
+      "name": "Fleece Jacket",
+      "category": "Clothing",
+      "brand": "Columbia",
+      "price": 79.99,
+      "rating": 4.6,
+      "imageUrl": "https://m.media-amazon.com/images/I/81gBpQqDb9L._AC_SX569_.jpg",
+      "description": "Fleece jacket that provides warmth and comfort in cold weather."
+    },
+    {
+      "id": 30,
+      "name": "Photo Printer",
+      "category": "Electronics",
+      "brand": "Canon",
+      "price": 149.99,
+      "rating": 4.0,
+      "imageUrl": "https://m.media-amazon.com/images/I/61mma6Ydw4L._AC_SL1500_.jpg",
+      "description": "Compact photo printer for high-quality prints from your smartphone."
+    },
+    {
+      "id": 31,
+      "name": "Blender",
+      "category": "Home Appliances",
+      "brand": "Ninja",
+      "price": 49.99,
+      "rating": 4.4,
+      "imageUrl": "https://m.media-amazon.com/images/I/71+w3aZtRjL._AC_SL1500_.jpg",
+      "description": "Versatile blender for smoothies, soups, and more."
+    },
+    {
+      "id": 32,
+      "name": "Electric Kettle",
+      "category": "Home Appliances",
+      "brand": "Breville",
+      "price": 89.99,
+      "rating": 4.5,
+      "imageUrl": "https://m.media-amazon.com/images/I/71en8YsTztL._AC_SL1500_.jpg",
+      "description": "Electric kettle with quick boiling capabilities."
+    },
+    {
+      "id": 33,
+      "name": "Instant Camera",
+      "category": "Electronics",
+      "brand": "Fujifilm",
+      "price": 79.99,
+      "rating": 4.3,
+      "imageUrl": "https://m.media-amazon.com/images/I/61PzfzkeGBL._AC_SL1500_.jpg",
+      "description": "Instant camera for capturing memories with a retro touch."
+    },
+    {
+      "id": 34,
+      "name": "Smart Thermostat",
+      "category": "Home Appliances",
+      "brand": "Nest",
+      "price": 249.99,
+      "rating": 4.7,
+      "imageUrl": "https://m.media-amazon.com/images/I/51YWnoWYbkL._AC_SL1500_.jpg",
+      "description": "Smart thermostat that learns your schedule for energy savings."
+    },
+    {
+      "id": 35,
+      "name": "Portable Bluetooth Projector",
+      "category": "Electronics",
+      "brand": "Anker",
+      "price": 199.99,
+      "rating": 4.6,
+      "imageUrl": "https://m.media-amazon.com/images/I/71ux7Fa6O+L._AC_SL1500_.jpg",
+      "description": "Portable Bluetooth projector for streaming movies anywhere."
+    }
+  ]
+}

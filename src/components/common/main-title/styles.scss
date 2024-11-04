@@ -1,0 +1,43 @@
+.main-title {
+  width: 100%;
+  margin: 50px 0 40px 0;
+
+  & h1 {
+    text-align: center;
+    text-transform: uppercase;
+    padding-bottom: 5px;
+    position: relative;
+    margin: 0;
+    font-family: "Raleway", sans-serif;
+    font-weight: 300;
+    font-size: 40px;
+    color: #080808;
+    -webkit-transition: all 0.4s ease 0s;
+    -o-transition: all 0.4s ease 0s;
+    transition: all 0.4s ease 0s;
+
+    &::before {
+      width: 60px;
+      height: 5px;
+      display: block;
+      content: "";
+      position: absolute;
+      bottom: 3px;
+      left: 50%;
+      margin-left: -30px;
+      background-color: #b80000;
+    }
+
+    &::after {
+      width: 260px;
+      height: 1px;
+      display: block;
+      content: "";
+      position: relative;
+      margin-top: 25px;
+      left: 50%;
+      margin-left: -130px;
+      background-color: #b80000;
+    }
+  }
+}
